@@ -1,6 +1,6 @@
 # Program-like in Cafe
 
-### 80桁の乱数を0.2秒毎に出力するプログラム
+### 80桁の乱数を0.2秒毎に出力するプログラム(do_in_cafe.py)
 ```python
 import random
 import time
